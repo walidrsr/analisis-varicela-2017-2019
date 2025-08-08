@@ -27,13 +27,13 @@ import seaborn as sns
 2) Instrucciones de ejecución
 -----------------------------------------------------------------------------------------
 
-*) Tener los archivos "egresos-2017, egresos-2018,egresos-2019" instalado en la misma carpeta donde se encuentre el código.
+a) Tener los archivos "egresos-2017, egresos-2018,egresos-2019" instalado en la misma carpeta donde se encuentre el código.
 
-*) Abrir el código en un IDE (recomendamos Spyder).
+b) Abrir el código en un IDE (recomendamos Spyder).
 
-*) Ejecutar el código completo o en celdas (separados con #%%).
+c) Ejecutar el código completo o en celdas (separados con #%%).
 
-*) Revisar los resultados una vez finalizado su ejecución (en la parte de graficos y explorador de variables).
+d) Revisar los resultados una vez finalizado su ejecución (en la parte de graficos y explorador de variables).
 --------------------------------------------------------------------------------------------
 3) ¿Por que es util el proyecto? 
 --------------------------------------------------------------------------------------------
